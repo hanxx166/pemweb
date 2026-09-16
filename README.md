@@ -41,12 +41,12 @@ Validator W3C menampilkan pesan info *"Trailing slash on void elements has no ef
 
 Berikut adalah bukti hasil validasi kode HTML saya menggunakan W3C Markup Validation Service:
 
-*<img width="959" height="509" alt="Screenshot 2026-09-16 213749" src="https://github.com/user-attachments/assets/388957d5-15af-491f-9579-8796f4234d12" />
-*  
+<img width="959" height="509" alt="Screenshot 2026-09-16 213749" src="https://github.com/user-attachments/assets/388957d5-15af-491f-9579-8796f4234d12" />
+  
 **Gambar 1.** Hasil validasi `index.html` - No errors or warnings.
 
-*<img width="959" height="512" alt="Screenshot 2026-09-16 213816" src="https://github.com/user-attachments/assets/4e143201-ff6e-427d-bcfa-c75be9ecd470" />
-*  
+<img width="959" height="512" alt="Screenshot 2026-09-16 213816" src="https://github.com/user-attachments/assets/4e143201-ff6e-427d-bcfa-c75be9ecd470" />
+  
 **Gambar 2.** Hasil validasi `berita.html` - No errors or warnings.
 
 ## 4. Hosting di GitHub Pages
