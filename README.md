@@ -1,12 +1,9 @@
 # Tugas 2 - Pengembangan Aplikasi Web
-**Nama  :** Erhan Kurniawan
-**NIM   :** 124140217
-
-**Kelas :** RA
-
+**Nama  :** Erhan Kurniawan  
+**NIM   :** 124140217  
+**Kelas :** RA  
 **Mata Kuliah:** Pengembangan Aplikasi Web  
-
-**Link GitHub Pages:** https://hanxx166.github.io/pemweb/tugas2/  
+**Link GitHub Pages:** https://hanxx166.github.io/pemweb/tugas2/    
 
 ---
 
