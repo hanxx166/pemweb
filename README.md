@@ -1,6 +1,5 @@
 # Tugas 2 - Pengembangan Aplikasi Web
 **Nama  :** Erhan Kurniawan
-
 **NIM   :** 124140217
 
 **Kelas :** RA
